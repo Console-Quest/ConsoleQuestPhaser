@@ -1,0 +1,96 @@
+{
+    "id": "47f19b0e-22c4-4e1d-b492-19bc82a05319",
+    "sceneType": "PREFAB",
+    "settings": {
+        "preloadMethodName": "",
+        "preloadPackFiles": [],
+        "createMethodName": "",
+        "borderWidth": 288,
+        "borderHeight": 192
+    },
+    "displayList": [
+        {
+            "type": "Sprite",
+            "id": "5100a099-7236-47cd-8989-32220bf0db3a",
+            "label": "arcadesprite_1",
+            "hitArea.shape": "RECTANGLE",
+            "hitArea.width": 26,
+            "hitArea.height": 36,
+            "texture": {
+                "key": "monsters",
+                "frame": "orc1_down1.png"
+            },
+            "x": 150,
+            "y": 100,
+            "ArcadeComponent.active": true,
+            "allowGravity": false,
+            "body.width": 26,
+            "body.height": 36,
+            "list": [
+                {
+                    "prefabId": "d27067c0-70b1-478b-9b7c-d2d2f08defa1",
+                    "id": "ba350999-717d-40e9-acef-bdfcb33f9c5c",
+                    "unlock": [
+                        "deltaX",
+                        "deltaY",
+                        "duration"
+                    ],
+                    "label": "characterMoveScript",
+                    "deltaX": 50,
+                    "deltaY": 50,
+                    "duration": 6000
+                },
+                {
+                    "prefabId": "61dde64d-6c82-4109-a4a2-c88cb5eb249d",
+                    "id": "0bf9b330-1d25-4c13-a5ab-06d150e7646e",
+                    "unlock": [
+                        "animationKey",
+                        "killOnComplete"
+                    ],
+                    "label": "startAnimationScript",
+                    "animationKey": "monsters/orc1_down",
+                    "killOnComplete": true
+                }
+            ]
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 4
+    },
+    "prefabProperties": [
+        {
+            "name": "HP",
+            "label": "HP",
+            "tooltip": "Property 1",
+            "defValue": 20,
+            "customDefinition": false,
+            "type": {
+                "id": "number"
+            }
+        },
+        {
+            "name": "Speed",
+            "label": "Speed",
+            "tooltip": "Property 1",
+            "defValue": 50,
+            "customDefinition": false,
+            "type": {
+                "id": "number"
+            }
+        },
+        {
+            "name": "Damage",
+            "label": "Damage",
+            "tooltip": "Property 1",
+            "defValue": 5,
+            "customDefinition": false,
+            "type": {
+                "id": "number"
+            }
+        }
+    ]
+}

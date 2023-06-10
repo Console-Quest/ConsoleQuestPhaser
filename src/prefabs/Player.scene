@@ -1,0 +1,146 @@
+{
+    "id": "2bdd30b0-e379-4943-9d6b-ed6cb2ba5b0a",
+    "sceneType": "PREFAB",
+    "settings": {
+        "preloadMethodName": "",
+        "preloadPackFiles": [],
+        "createMethodName": "",
+        "borderWidth": 20,
+        "borderHeight": 30
+    },
+    "displayList": [
+        {
+            "type": "Sprite",
+            "id": "7510685d-e1b6-4e60-9ac0-d57acec2b000",
+            "label": "player_climb_player_climb_1",
+            "texture": {
+                "key": "bluechar",
+                "frame": "down2.png"
+            },
+            "x": 11,
+            "y": 14,
+            "ArcadeComponent.active": true,
+            "allowGravity": false,
+            "collideWorldBounds": true,
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "body.width": 8,
+            "body.height": 16,
+            "body.offset.x": 12,
+            "body.offset.y": 16,
+            "list": [
+                {
+                    "prefabId": "61dde64d-6c82-4109-a4a2-c88cb5eb249d",
+                    "id": "f010a3cd-dfcb-4040-b302-b92327caf30e",
+                    "unlock": [
+                        "animationKey"
+                    ],
+                    "label": "startAnimationScript",
+                    "animationKey": "bluechardown"
+                }
+            ]
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 4
+    },
+    "prefabProperties": [
+        {
+            "name": "HP",
+            "label": "HP",
+            "tooltip": "Property 1",
+            "defValue": 100,
+            "customDefinition": false,
+            "type": {
+                "id": "number"
+            }
+        },
+        {
+            "name": "XP",
+            "label": "XP",
+            "tooltip": "Property 1",
+            "defValue": 0,
+            "customDefinition": false,
+            "type": {
+                "id": "number"
+            }
+        },
+        {
+            "name": "Damage",
+            "label": "Damage",
+            "tooltip": "Property 1",
+            "defValue": 10,
+            "customDefinition": false,
+            "type": {
+                "id": "number"
+            }
+        },
+        {
+            "name": "isAlive",
+            "label": "isAlive",
+            "tooltip": "Property 1",
+            "defValue": true,
+            "customDefinition": false,
+            "type": {
+                "id": "boolean"
+            }
+        },
+        {
+            "name": "attackSpeed",
+            "label": "attackSpeed",
+            "tooltip": "Property 1",
+            "defValue": 1,
+            "customDefinition": false,
+            "type": {
+                "id": "number"
+            }
+        },
+        {
+            "name": "moveSpeed",
+            "label": "moveSpeed",
+            "tooltip": "Property 1",
+            "defValue": 100,
+            "customDefinition": false,
+            "type": {
+                "id": "number"
+            }
+        },
+        {
+            "name": "spells",
+            "label": "spells",
+            "tooltip": "Property 1",
+            "defValue": "",
+            "customDefinition": false,
+            "type": {
+                "id": "option",
+                "options": []
+            }
+        },
+        {
+            "name": "healthRegen",
+            "label": "healthRegen",
+            "tooltip": "Property 1",
+            "defValue": 1,
+            "customDefinition": false,
+            "type": {
+                "id": "number"
+            }
+        },
+        {
+            "name": "level",
+            "label": "level",
+            "tooltip": "Property 1",
+            "defValue": 1,
+            "customDefinition": false,
+            "type": {
+                "id": "number"
+            }
+        }
+    ]
+}

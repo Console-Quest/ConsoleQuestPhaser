@@ -1,0 +1,108 @@
+{
+    "id": "8a59bab4-8eb8-4fde-b4c7-2b77253af9f7",
+    "sceneType": "PREFAB",
+    "settings": {
+        "preloadMethodName": "",
+        "preloadPackFiles": [],
+        "createMethodName": "",
+        "borderWidth": 288,
+        "borderHeight": 192
+    },
+    "displayList": [
+        {
+            "type": "Sprite",
+            "id": "ac395a3b-f800-42c4-8bbb-2b45d140aa01",
+            "label": "eagle_eagle_attack_1",
+            "hitArea.shape": "RECTANGLE",
+            "hitArea.width": 60,
+            "hitArea.height": 64,
+            "texture": {
+                "key": "monsters",
+                "frame": "orc2_down1.png"
+            },
+            "x": 95,
+            "y": 75,
+            "ArcadeComponent.active": true,
+            "allowGravity": false,
+            "body.width": 39,
+            "body.height": 30,
+            "body.offset.x": 12,
+            "list": [
+                {
+                    "prefabId": "da647249-8864-4aba-a089-ea8daa236244",
+                    "id": "11558b55-7272-4e04-a4c3-79514f0c2155",
+                    "unlock": [
+                        "playerx",
+                        "playery",
+                        "property1"
+                    ],
+                    "label": "enemyFollowsPlayer",
+                    "playerx": 0,
+                    "playery": 0,
+                    "property1": "eagle_eagle_attack_1"
+                },
+                {
+                    "prefabId": "61dde64d-6c82-4109-a4a2-c88cb5eb249d",
+                    "id": "a58be27c-9759-4902-8cdd-c30011a39217",
+                    "unlock": [
+                        "animationKey",
+                        "killOnComplete"
+                    ],
+                    "label": "startAnimationScript",
+                    "animationKey": "monsters/orc2_down",
+                    "killOnComplete": true
+                }
+            ]
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 4
+    },
+    "prefabProperties": [
+        {
+            "name": "HP",
+            "label": "Property 2",
+            "tooltip": "Property 2",
+            "defValue": 20,
+            "customDefinition": false,
+            "type": {
+                "id": "number"
+            }
+        },
+        {
+            "name": "Speed",
+            "label": "Speed",
+            "tooltip": "Property 1",
+            "defValue": 2,
+            "customDefinition": false,
+            "type": {
+                "id": "number"
+            }
+        },
+        {
+            "name": "Player",
+            "label": "Player",
+            "tooltip": "Property 1",
+            "defValue": "Player",
+            "customDefinition": false,
+            "type": {
+                "id": "constructor",
+                "expressionType": "any"
+            }
+        },
+        {
+            "name": "collide",
+            "label": "collide",
+            "tooltip": "Property 1",
+            "defValue": true,
+            "customDefinition": false,
+            "type": {
+                "id": "boolean"
+            }
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "06671cc8-652b-4f33-9bdf-93871d2308a8",
+    "sceneType": "PREFAB",
+    "settings": {
+        "preloadMethodName": "",
+        "preloadPackFiles": [],
+        "createMethodName": "",
+        "borderWidth": 1280,
+        "borderHeight": 720
+    },
+    "displayList": [
+        {
+            "type": "ArcadeSprite",
+            "id": "89be7043-70f3-4434-9d83-e738f4d982b4",
+            "label": "arcadesprite_1",
+            "texture": {
+                "key": "monsters",
+                "frame": "red-demon_down2.png"
+            },
+            "x": 179,
+            "y": 112,
+            "body.width": 60,
+            "body.height": 64,
+            "list": [
+                {
+                    "prefabId": "61dde64d-6c82-4109-a4a2-c88cb5eb249d",
+                    "id": "e585ace7-ab99-4cb8-a667-b1ce7d18ea87",
+                    "unlock": [
+                        "animationKey"
+                    ],
+                    "label": "startAnimationScript",
+                    "animationKey": "monsters/red-demon_down"
+                },
+                {
+                    "prefabId": "da647249-8864-4aba-a089-ea8daa236244",
+                    "id": "ea03d01f-ecbe-4c81-aea1-8c81f08802ce",
+                    "label": "enemyFollowsPlayer"
+                }
+            ]
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 4
+    }
+}

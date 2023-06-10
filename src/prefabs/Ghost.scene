@@ -1,0 +1,33 @@
+{
+    "id": "7227bbd5-bfde-41f5-9f3a-cff1245edb29",
+    "sceneType": "PREFAB",
+    "settings": {
+        "preloadMethodName": "",
+        "preloadPackFiles": [],
+        "createMethodName": "",
+        "borderWidth": 1280,
+        "borderHeight": 720
+    },
+    "displayList": [
+        {
+            "type": "ArcadeSprite",
+            "id": "54ec1037-1134-44a2-88a2-aee0e58473c0",
+            "label": "arcadesprite_1",
+            "texture": {
+                "key": "monsters",
+                "frame": "ghost_down2.png"
+            },
+            "x": 476,
+            "y": 261,
+            "body.width": 60,
+            "body.height": 64
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 4
+    }
+}

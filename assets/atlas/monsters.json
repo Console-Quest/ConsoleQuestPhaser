@@ -1,0 +1,4052 @@
+{
+	"textures": [
+		{
+			"image": "monsters.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 128,
+				"h": 1364
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "brown-mouse_down1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 34,
+						"w": 18,
+						"h": 30
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 18,
+						"h": 30
+					}
+				},
+				{
+					"filename": "brown-mouse_down3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 34,
+						"w": 18,
+						"h": 30
+					},
+					"frame": {
+						"x": 21,
+						"y": 1,
+						"w": 18,
+						"h": 30
+					}
+				},
+				{
+					"filename": "brown-mouse_left1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 34,
+						"w": 18,
+						"h": 30
+					},
+					"frame": {
+						"x": 41,
+						"y": 1,
+						"w": 18,
+						"h": 30
+					}
+				},
+				{
+					"filename": "brown-mouse_left3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 34,
+						"w": 17,
+						"h": 30
+					},
+					"frame": {
+						"x": 61,
+						"y": 1,
+						"w": 17,
+						"h": 30
+					}
+				},
+				{
+					"filename": "brown-mouse_right1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 34,
+						"w": 17,
+						"h": 30
+					},
+					"frame": {
+						"x": 80,
+						"y": 1,
+						"w": 17,
+						"h": 30
+					}
+				},
+				{
+					"filename": "brown-mouse_right3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 34,
+						"w": 18,
+						"h": 30
+					},
+					"frame": {
+						"x": 99,
+						"y": 1,
+						"w": 18,
+						"h": 30
+					}
+				},
+				{
+					"filename": "brown-mouse_up1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 34,
+						"w": 18,
+						"h": 30
+					},
+					"frame": {
+						"x": 1,
+						"y": 33,
+						"w": 18,
+						"h": 30
+					}
+				},
+				{
+					"filename": "brown-mouse_up3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 34,
+						"w": 18,
+						"h": 30
+					},
+					"frame": {
+						"x": 21,
+						"y": 33,
+						"w": 18,
+						"h": 30
+					}
+				},
+				{
+					"filename": "orc-mage_down1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 6,
+						"w": 21,
+						"h": 30
+					},
+					"frame": {
+						"x": 41,
+						"y": 33,
+						"w": 21,
+						"h": 30
+					}
+				},
+				{
+					"filename": "orc-mage_down3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 6,
+						"w": 21,
+						"h": 30
+					},
+					"frame": {
+						"x": 64,
+						"y": 33,
+						"w": 21,
+						"h": 30
+					}
+				},
+				{
+					"filename": "orc-mage_left1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 6,
+						"w": 19,
+						"h": 30
+					},
+					"frame": {
+						"x": 87,
+						"y": 33,
+						"w": 19,
+						"h": 30
+					}
+				},
+				{
+					"filename": "orc-mage_left3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 6,
+						"w": 19,
+						"h": 30
+					},
+					"frame": {
+						"x": 108,
+						"y": 33,
+						"w": 19,
+						"h": 30
+					}
+				},
+				{
+					"filename": "orc-mage_right1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 6,
+						"w": 19,
+						"h": 30
+					},
+					"frame": {
+						"x": 1,
+						"y": 65,
+						"w": 19,
+						"h": 30
+					}
+				},
+				{
+					"filename": "orc-mage_right3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 6,
+						"w": 19,
+						"h": 30
+					},
+					"frame": {
+						"x": 22,
+						"y": 65,
+						"w": 19,
+						"h": 30
+					}
+				},
+				{
+					"filename": "orc-mage_up1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 6,
+						"w": 21,
+						"h": 30
+					},
+					"frame": {
+						"x": 43,
+						"y": 65,
+						"w": 21,
+						"h": 30
+					}
+				},
+				{
+					"filename": "orc-mage_up3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 6,
+						"w": 21,
+						"h": 30
+					},
+					"frame": {
+						"x": 66,
+						"y": 65,
+						"w": 21,
+						"h": 30
+					}
+				},
+				{
+					"filename": "orc1_down1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 6,
+						"w": 19,
+						"h": 30
+					},
+					"frame": {
+						"x": 89,
+						"y": 65,
+						"w": 19,
+						"h": 30
+					}
+				},
+				{
+					"filename": "brown-mouse_left2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 33,
+						"w": 17,
+						"h": 31
+					},
+					"frame": {
+						"x": 110,
+						"y": 65,
+						"w": 17,
+						"h": 31
+					}
+				},
+				{
+					"filename": "orc1_down3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 6,
+						"w": 19,
+						"h": 30
+					},
+					"frame": {
+						"x": 1,
+						"y": 97,
+						"w": 19,
+						"h": 30
+					}
+				},
+				{
+					"filename": "orc1_left1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 6,
+						"w": 19,
+						"h": 30
+					},
+					"frame": {
+						"x": 22,
+						"y": 97,
+						"w": 19,
+						"h": 30
+					}
+				},
+				{
+					"filename": "orc1_left3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 6,
+						"w": 19,
+						"h": 30
+					},
+					"frame": {
+						"x": 43,
+						"y": 97,
+						"w": 19,
+						"h": 30
+					}
+				},
+				{
+					"filename": "orc1_right1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 6,
+						"w": 19,
+						"h": 30
+					},
+					"frame": {
+						"x": 64,
+						"y": 97,
+						"w": 19,
+						"h": 30
+					}
+				},
+				{
+					"filename": "orc1_right3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 6,
+						"w": 19,
+						"h": 30
+					},
+					"frame": {
+						"x": 85,
+						"y": 97,
+						"w": 19,
+						"h": 30
+					}
+				},
+				{
+					"filename": "orc1_up1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 6,
+						"w": 19,
+						"h": 30
+					},
+					"frame": {
+						"x": 106,
+						"y": 98,
+						"w": 19,
+						"h": 30
+					}
+				},
+				{
+					"filename": "orc1_up3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 6,
+						"w": 19,
+						"h": 30
+					},
+					"frame": {
+						"x": 1,
+						"y": 129,
+						"w": 19,
+						"h": 30
+					}
+				},
+				{
+					"filename": "orc2_down1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 6,
+						"w": 21,
+						"h": 30
+					},
+					"frame": {
+						"x": 22,
+						"y": 129,
+						"w": 21,
+						"h": 30
+					}
+				},
+				{
+					"filename": "orc2_down3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 6,
+						"w": 21,
+						"h": 30
+					},
+					"frame": {
+						"x": 45,
+						"y": 129,
+						"w": 21,
+						"h": 30
+					}
+				},
+				{
+					"filename": "orc2_left1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 6,
+						"w": 19,
+						"h": 30
+					},
+					"frame": {
+						"x": 68,
+						"y": 129,
+						"w": 19,
+						"h": 30
+					}
+				},
+				{
+					"filename": "orc2_left3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 6,
+						"w": 19,
+						"h": 30
+					},
+					"frame": {
+						"x": 89,
+						"y": 130,
+						"w": 19,
+						"h": 30
+					}
+				},
+				{
+					"filename": "brown-mouse_right2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 33,
+						"w": 17,
+						"h": 31
+					},
+					"frame": {
+						"x": 110,
+						"y": 130,
+						"w": 17,
+						"h": 31
+					}
+				},
+				{
+					"filename": "orc2_right1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 6,
+						"w": 19,
+						"h": 30
+					},
+					"frame": {
+						"x": 1,
+						"y": 161,
+						"w": 19,
+						"h": 30
+					}
+				},
+				{
+					"filename": "orc2_right3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 6,
+						"w": 19,
+						"h": 30
+					},
+					"frame": {
+						"x": 22,
+						"y": 161,
+						"w": 19,
+						"h": 30
+					}
+				},
+				{
+					"filename": "orc2_up1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 6,
+						"w": 21,
+						"h": 30
+					},
+					"frame": {
+						"x": 43,
+						"y": 161,
+						"w": 21,
+						"h": 30
+					}
+				},
+				{
+					"filename": "orc2_up3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 6,
+						"w": 21,
+						"h": 30
+					},
+					"frame": {
+						"x": 66,
+						"y": 161,
+						"w": 21,
+						"h": 30
+					}
+				},
+				{
+					"filename": "orc-fighter_down1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 19,
+						"h": 31
+					},
+					"frame": {
+						"x": 89,
+						"y": 162,
+						"w": 19,
+						"h": 31
+					}
+				},
+				{
+					"filename": "white-mouse_left3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 32,
+						"w": 17,
+						"h": 32
+					},
+					"frame": {
+						"x": 110,
+						"y": 163,
+						"w": 17,
+						"h": 32
+					}
+				},
+				{
+					"filename": "brown-mouse_down2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 33,
+						"w": 21,
+						"h": 31
+					},
+					"frame": {
+						"x": 1,
+						"y": 193,
+						"w": 21,
+						"h": 31
+					}
+				},
+				{
+					"filename": "brown-mouse_up2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 33,
+						"w": 21,
+						"h": 31
+					},
+					"frame": {
+						"x": 24,
+						"y": 193,
+						"w": 21,
+						"h": 31
+					}
+				},
+				{
+					"filename": "orc-fighter_down3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 19,
+						"h": 31
+					},
+					"frame": {
+						"x": 47,
+						"y": 193,
+						"w": 19,
+						"h": 31
+					}
+				},
+				{
+					"filename": "orc-fighter_left1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 19,
+						"h": 31
+					},
+					"frame": {
+						"x": 68,
+						"y": 193,
+						"w": 19,
+						"h": 31
+					}
+				},
+				{
+					"filename": "orc-fighter_left3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 19,
+						"h": 31
+					},
+					"frame": {
+						"x": 89,
+						"y": 195,
+						"w": 19,
+						"h": 31
+					}
+				},
+				{
+					"filename": "white-mouse_right1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 32,
+						"w": 17,
+						"h": 32
+					},
+					"frame": {
+						"x": 110,
+						"y": 197,
+						"w": 17,
+						"h": 32
+					}
+				},
+				{
+					"filename": "orc-fighter_right1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 19,
+						"h": 31
+					},
+					"frame": {
+						"x": 1,
+						"y": 226,
+						"w": 19,
+						"h": 31
+					}
+				},
+				{
+					"filename": "orc-fighter_right3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 19,
+						"h": 31
+					},
+					"frame": {
+						"x": 22,
+						"y": 226,
+						"w": 19,
+						"h": 31
+					}
+				},
+				{
+					"filename": "orc-fighter_up1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 19,
+						"h": 31
+					},
+					"frame": {
+						"x": 43,
+						"y": 226,
+						"w": 19,
+						"h": 31
+					}
+				},
+				{
+					"filename": "orc-fighter_up3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 19,
+						"h": 31
+					},
+					"frame": {
+						"x": 64,
+						"y": 226,
+						"w": 19,
+						"h": 31
+					}
+				},
+				{
+					"filename": "orc-mage_down2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 5,
+						"w": 21,
+						"h": 31
+					},
+					"frame": {
+						"x": 85,
+						"y": 228,
+						"w": 21,
+						"h": 31
+					}
+				},
+				{
+					"filename": "orc-mage_left2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 19,
+						"h": 31
+					},
+					"frame": {
+						"x": 108,
+						"y": 231,
+						"w": 19,
+						"h": 31
+					}
+				},
+				{
+					"filename": "orc-mage_right2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 19,
+						"h": 31
+					},
+					"frame": {
+						"x": 1,
+						"y": 259,
+						"w": 19,
+						"h": 31
+					}
+				},
+				{
+					"filename": "orc-mage_up2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 5,
+						"w": 21,
+						"h": 31
+					},
+					"frame": {
+						"x": 22,
+						"y": 259,
+						"w": 21,
+						"h": 31
+					}
+				},
+				{
+					"filename": "orc-miniboss_up1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 5,
+						"w": 23,
+						"h": 31
+					},
+					"frame": {
+						"x": 45,
+						"y": 259,
+						"w": 23,
+						"h": 31
+					}
+				},
+				{
+					"filename": "orc-miniboss_up3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 5,
+						"w": 23,
+						"h": 31
+					},
+					"frame": {
+						"x": 70,
+						"y": 261,
+						"w": 23,
+						"h": 31
+					}
+				},
+				{
+					"filename": "orc1_down2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 5,
+						"w": 21,
+						"h": 31
+					},
+					"frame": {
+						"x": 95,
+						"y": 264,
+						"w": 21,
+						"h": 31
+					}
+				},
+				{
+					"filename": "orc1_left2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 19,
+						"h": 31
+					},
+					"frame": {
+						"x": 1,
+						"y": 292,
+						"w": 19,
+						"h": 31
+					}
+				},
+				{
+					"filename": "orc1_right2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 19,
+						"h": 31
+					},
+					"frame": {
+						"x": 22,
+						"y": 292,
+						"w": 19,
+						"h": 31
+					}
+				},
+				{
+					"filename": "orc1_up2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 5,
+						"w": 21,
+						"h": 31
+					},
+					"frame": {
+						"x": 43,
+						"y": 292,
+						"w": 21,
+						"h": 31
+					}
+				},
+				{
+					"filename": "orc2_down2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 5,
+						"w": 21,
+						"h": 31
+					},
+					"frame": {
+						"x": 66,
+						"y": 294,
+						"w": 21,
+						"h": 31
+					}
+				},
+				{
+					"filename": "orc2_left2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 19,
+						"h": 31
+					},
+					"frame": {
+						"x": 89,
+						"y": 297,
+						"w": 19,
+						"h": 31
+					}
+				},
+				{
+					"filename": "white-zombie_left1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 31,
+						"w": 17,
+						"h": 33
+					},
+					"frame": {
+						"x": 110,
+						"y": 297,
+						"w": 17,
+						"h": 33
+					}
+				},
+				{
+					"filename": "orc2_right2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 19,
+						"h": 31
+					},
+					"frame": {
+						"x": 1,
+						"y": 325,
+						"w": 19,
+						"h": 31
+					}
+				},
+				{
+					"filename": "orc2_up2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 5,
+						"w": 21,
+						"h": 31
+					},
+					"frame": {
+						"x": 22,
+						"y": 325,
+						"w": 21,
+						"h": 31
+					}
+				},
+				{
+					"filename": "orc3_left1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 19,
+						"h": 31
+					},
+					"frame": {
+						"x": 45,
+						"y": 325,
+						"w": 19,
+						"h": 31
+					}
+				},
+				{
+					"filename": "orc3_down1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 5,
+						"w": 20,
+						"h": 31
+					},
+					"frame": {
+						"x": 66,
+						"y": 327,
+						"w": 20,
+						"h": 31
+					}
+				},
+				{
+					"filename": "orc3_down3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 5,
+						"w": 20,
+						"h": 31
+					},
+					"frame": {
+						"x": 88,
+						"y": 330,
+						"w": 20,
+						"h": 31
+					}
+				},
+				{
+					"filename": "white-zombie_left3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 31,
+						"w": 17,
+						"h": 33
+					},
+					"frame": {
+						"x": 110,
+						"y": 332,
+						"w": 17,
+						"h": 33
+					}
+				},
+				{
+					"filename": "orc3_left3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 19,
+						"h": 31
+					},
+					"frame": {
+						"x": 1,
+						"y": 358,
+						"w": 19,
+						"h": 31
+					}
+				},
+				{
+					"filename": "orc3_right1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 5,
+						"w": 20,
+						"h": 31
+					},
+					"frame": {
+						"x": 22,
+						"y": 358,
+						"w": 20,
+						"h": 31
+					}
+				},
+				{
+					"filename": "orc3_right3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 5,
+						"w": 20,
+						"h": 31
+					},
+					"frame": {
+						"x": 44,
+						"y": 358,
+						"w": 20,
+						"h": 31
+					}
+				},
+				{
+					"filename": "orc3_up1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 20,
+						"h": 31
+					},
+					"frame": {
+						"x": 66,
+						"y": 360,
+						"w": 20,
+						"h": 31
+					}
+				},
+				{
+					"filename": "orc3_up3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 20,
+						"h": 31
+					},
+					"frame": {
+						"x": 88,
+						"y": 363,
+						"w": 20,
+						"h": 31
+					}
+				},
+				{
+					"filename": "white-zombie_right1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 31,
+						"w": 17,
+						"h": 33
+					},
+					"frame": {
+						"x": 110,
+						"y": 367,
+						"w": 17,
+						"h": 33
+					}
+				},
+				{
+					"filename": "purple-demon_down1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 33,
+						"w": 36,
+						"h": 31
+					},
+					"frame": {
+						"x": 1,
+						"y": 391,
+						"w": 36,
+						"h": 31
+					}
+				},
+				{
+					"filename": "ghost_down1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 32,
+						"w": 22,
+						"h": 32
+					},
+					"frame": {
+						"x": 39,
+						"y": 391,
+						"w": 22,
+						"h": 32
+					}
+				},
+				{
+					"filename": "ghost_left1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 32,
+						"w": 20,
+						"h": 32
+					},
+					"frame": {
+						"x": 63,
+						"y": 393,
+						"w": 20,
+						"h": 32
+					}
+				},
+				{
+					"filename": "ghost_right3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 32,
+						"w": 20,
+						"h": 32
+					},
+					"frame": {
+						"x": 85,
+						"y": 396,
+						"w": 20,
+						"h": 32
+					}
+				},
+				{
+					"filename": "orc-fighter_left2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 4,
+						"w": 19,
+						"h": 32
+					},
+					"frame": {
+						"x": 107,
+						"y": 402,
+						"w": 19,
+						"h": 32
+					}
+				},
+				{
+					"filename": "purple-demon_down3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 33,
+						"w": 36,
+						"h": 31
+					},
+					"frame": {
+						"x": 1,
+						"y": 424,
+						"w": 36,
+						"h": 31
+					}
+				},
+				{
+					"filename": "ghost_up1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 32,
+						"w": 22,
+						"h": 32
+					},
+					"frame": {
+						"x": 39,
+						"y": 425,
+						"w": 22,
+						"h": 32
+					}
+				},
+				{
+					"filename": "orc-fighter_right2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 4,
+						"w": 19,
+						"h": 32
+					},
+					"frame": {
+						"x": 63,
+						"y": 427,
+						"w": 19,
+						"h": 32
+					}
+				},
+				{
+					"filename": "orc-fighter_down2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 4,
+						"w": 21,
+						"h": 32
+					},
+					"frame": {
+						"x": 84,
+						"y": 430,
+						"w": 21,
+						"h": 32
+					}
+				},
+				{
+					"filename": "orc-miniboss_left1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 4,
+						"w": 20,
+						"h": 32
+					},
+					"frame": {
+						"x": 107,
+						"y": 436,
+						"w": 20,
+						"h": 32
+					}
+				},
+				{
+					"filename": "purple-demon_up1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 33,
+						"w": 35,
+						"h": 31
+					},
+					"frame": {
+						"x": 1,
+						"y": 457,
+						"w": 35,
+						"h": 31
+					}
+				},
+				{
+					"filename": "orc-fighter_up2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 4,
+						"w": 21,
+						"h": 32
+					},
+					"frame": {
+						"x": 38,
+						"y": 459,
+						"w": 21,
+						"h": 32
+					}
+				},
+				{
+					"filename": "orc-miniboss_left3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 4,
+						"w": 19,
+						"h": 32
+					},
+					"frame": {
+						"x": 61,
+						"y": 461,
+						"w": 19,
+						"h": 32
+					}
+				},
+				{
+					"filename": "orc-miniboss_right1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 4,
+						"w": 19,
+						"h": 32
+					},
+					"frame": {
+						"x": 82,
+						"y": 464,
+						"w": 19,
+						"h": 32
+					}
+				},
+				{
+					"filename": "orc-miniboss_right3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 4,
+						"w": 20,
+						"h": 32
+					},
+					"frame": {
+						"x": 103,
+						"y": 470,
+						"w": 20,
+						"h": 32
+					}
+				},
+				{
+					"filename": "purple-demon_up3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 33,
+						"w": 35,
+						"h": 31
+					},
+					"frame": {
+						"x": 1,
+						"y": 490,
+						"w": 35,
+						"h": 31
+					}
+				},
+				{
+					"filename": "orc3_down2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 4,
+						"w": 21,
+						"h": 32
+					},
+					"frame": {
+						"x": 38,
+						"y": 493,
+						"w": 21,
+						"h": 32
+					}
+				},
+				{
+					"filename": "orc3_left2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 4,
+						"w": 19,
+						"h": 32
+					},
+					"frame": {
+						"x": 61,
+						"y": 495,
+						"w": 19,
+						"h": 32
+					}
+				},
+				{
+					"filename": "orc3_right2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 4,
+						"w": 19,
+						"h": 32
+					},
+					"frame": {
+						"x": 82,
+						"y": 498,
+						"w": 19,
+						"h": 32
+					}
+				},
+				{
+					"filename": "orc-miniboss_up2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 4,
+						"w": 23,
+						"h": 32
+					},
+					"frame": {
+						"x": 103,
+						"y": 504,
+						"w": 23,
+						"h": 32
+					}
+				},
+				{
+					"filename": "orc3_up2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 4,
+						"w": 21,
+						"h": 32
+					},
+					"frame": {
+						"x": 1,
+						"y": 523,
+						"w": 21,
+						"h": 32
+					}
+				},
+				{
+					"filename": "purple-demon_left1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 32,
+						"w": 24,
+						"h": 32
+					},
+					"frame": {
+						"x": 24,
+						"y": 527,
+						"w": 24,
+						"h": 32
+					}
+				},
+				{
+					"filename": "purple-demon_left3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 32,
+						"w": 25,
+						"h": 32
+					},
+					"frame": {
+						"x": 50,
+						"y": 529,
+						"w": 25,
+						"h": 32
+					}
+				},
+				{
+					"filename": "purple-demon_right3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 32,
+						"w": 24,
+						"h": 32
+					},
+					"frame": {
+						"x": 77,
+						"y": 532,
+						"w": 24,
+						"h": 32
+					}
+				},
+				{
+					"filename": "white-mouse_down1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 32,
+						"w": 23,
+						"h": 32
+					},
+					"frame": {
+						"x": 103,
+						"y": 538,
+						"w": 23,
+						"h": 32
+					}
+				},
+				{
+					"filename": "white-mouse_left1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 32,
+						"w": 19,
+						"h": 32
+					},
+					"frame": {
+						"x": 1,
+						"y": 557,
+						"w": 19,
+						"h": 32
+					}
+				},
+				{
+					"filename": "purple-demon_right1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 32,
+						"w": 25,
+						"h": 32
+					},
+					"frame": {
+						"x": 22,
+						"y": 561,
+						"w": 25,
+						"h": 32
+					}
+				},
+				{
+					"filename": "white-mouse_down3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 32,
+						"w": 23,
+						"h": 32
+					},
+					"frame": {
+						"x": 49,
+						"y": 563,
+						"w": 23,
+						"h": 32
+					}
+				},
+				{
+					"filename": "white-mouse_right3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 32,
+						"w": 19,
+						"h": 32
+					},
+					"frame": {
+						"x": 74,
+						"y": 566,
+						"w": 19,
+						"h": 32
+					}
+				},
+				{
+					"filename": "white-mouse_up1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 32,
+						"w": 23,
+						"h": 32
+					},
+					"frame": {
+						"x": 95,
+						"y": 572,
+						"w": 23,
+						"h": 32
+					}
+				},
+				{
+					"filename": "orc-miniboss_left2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 19,
+						"h": 33
+					},
+					"frame": {
+						"x": 1,
+						"y": 591,
+						"w": 19,
+						"h": 33
+					}
+				},
+				{
+					"filename": "white-mouse_up3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 32,
+						"w": 23,
+						"h": 32
+					},
+					"frame": {
+						"x": 22,
+						"y": 595,
+						"w": 23,
+						"h": 32
+					}
+				},
+				{
+					"filename": "ghost_down2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 31,
+						"w": 22,
+						"h": 33
+					},
+					"frame": {
+						"x": 47,
+						"y": 597,
+						"w": 22,
+						"h": 33
+					}
+				},
+				{
+					"filename": "ghost_left2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 31,
+						"w": 20,
+						"h": 33
+					},
+					"frame": {
+						"x": 71,
+						"y": 600,
+						"w": 20,
+						"h": 33
+					}
+				},
+				{
+					"filename": "ghost_right2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 31,
+						"w": 20,
+						"h": 33
+					},
+					"frame": {
+						"x": 93,
+						"y": 606,
+						"w": 20,
+						"h": 33
+					}
+				},
+				{
+					"filename": "orc-miniboss_right2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 19,
+						"h": 33
+					},
+					"frame": {
+						"x": 1,
+						"y": 626,
+						"w": 19,
+						"h": 33
+					}
+				},
+				{
+					"filename": "ghost_up2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 31,
+						"w": 22,
+						"h": 33
+					},
+					"frame": {
+						"x": 22,
+						"y": 629,
+						"w": 22,
+						"h": 33
+					}
+				},
+				{
+					"filename": "orc-boss_left2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 21,
+						"h": 33
+					},
+					"frame": {
+						"x": 46,
+						"y": 632,
+						"w": 21,
+						"h": 33
+					}
+				},
+				{
+					"filename": "orc-boss_right1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 20,
+						"h": 33
+					},
+					"frame": {
+						"x": 69,
+						"y": 635,
+						"w": 20,
+						"h": 33
+					}
+				},
+				{
+					"filename": "orc-boss_down1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 25,
+						"h": 33
+					},
+					"frame": {
+						"x": 91,
+						"y": 641,
+						"w": 25,
+						"h": 33
+					}
+				},
+				{
+					"filename": "white-mouse_left2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 31,
+						"w": 18,
+						"h": 33
+					},
+					"frame": {
+						"x": 1,
+						"y": 661,
+						"w": 18,
+						"h": 33
+					}
+				},
+				{
+					"filename": "orc-boss_right2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 3,
+						"w": 20,
+						"h": 33
+					},
+					"frame": {
+						"x": 21,
+						"y": 664,
+						"w": 20,
+						"h": 33
+					}
+				},
+				{
+					"filename": "orc-boss_up1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 21,
+						"h": 33
+					},
+					"frame": {
+						"x": 43,
+						"y": 667,
+						"w": 21,
+						"h": 33
+					}
+				},
+				{
+					"filename": "orc-miniboss_down1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 23,
+						"h": 33
+					},
+					"frame": {
+						"x": 66,
+						"y": 670,
+						"w": 23,
+						"h": 33
+					}
+				},
+				{
+					"filename": "orc-boss_down2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 25,
+						"h": 33
+					},
+					"frame": {
+						"x": 91,
+						"y": 676,
+						"w": 25,
+						"h": 33
+					}
+				},
+				{
+					"filename": "white-mouse_right2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 31,
+						"w": 18,
+						"h": 33
+					},
+					"frame": {
+						"x": 1,
+						"y": 696,
+						"w": 18,
+						"h": 33
+					}
+				},
+				{
+					"filename": "white-zombie_down1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 31,
+						"w": 18,
+						"h": 33
+					},
+					"frame": {
+						"x": 21,
+						"y": 699,
+						"w": 18,
+						"h": 33
+					}
+				},
+				{
+					"filename": "orc-miniboss_down3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 23,
+						"h": 33
+					},
+					"frame": {
+						"x": 41,
+						"y": 702,
+						"w": 23,
+						"h": 33
+					}
+				},
+				{
+					"filename": "white-mouse_down2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 31,
+						"w": 23,
+						"h": 33
+					},
+					"frame": {
+						"x": 66,
+						"y": 705,
+						"w": 23,
+						"h": 33
+					}
+				},
+				{
+					"filename": "orc-boss_left1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 25,
+						"h": 33
+					},
+					"frame": {
+						"x": 91,
+						"y": 711,
+						"w": 25,
+						"h": 33
+					}
+				},
+				{
+					"filename": "white-zombie_down3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 31,
+						"w": 18,
+						"h": 33
+					},
+					"frame": {
+						"x": 1,
+						"y": 731,
+						"w": 18,
+						"h": 33
+					}
+				},
+				{
+					"filename": "white-zombie_right3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 31,
+						"w": 17,
+						"h": 33
+					},
+					"frame": {
+						"x": 21,
+						"y": 734,
+						"w": 17,
+						"h": 33
+					}
+				},
+				{
+					"filename": "white-mouse_up2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 31,
+						"w": 23,
+						"h": 33
+					},
+					"frame": {
+						"x": 40,
+						"y": 737,
+						"w": 23,
+						"h": 33
+					}
+				},
+				{
+					"filename": "white-zombie_up1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 31,
+						"w": 19,
+						"h": 33
+					},
+					"frame": {
+						"x": 65,
+						"y": 740,
+						"w": 19,
+						"h": 33
+					}
+				},
+				{
+					"filename": "purple-demon_down2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 32,
+						"w": 37,
+						"h": 32
+					},
+					"frame": {
+						"x": 86,
+						"y": 746,
+						"w": 37,
+						"h": 32
+					}
+				},
+				{
+					"filename": "zombie_down1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 31,
+						"w": 18,
+						"h": 33
+					},
+					"frame": {
+						"x": 1,
+						"y": 766,
+						"w": 18,
+						"h": 33
+					}
+				},
+				{
+					"filename": "zombie_left3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 31,
+						"w": 17,
+						"h": 33
+					},
+					"frame": {
+						"x": 21,
+						"y": 769,
+						"w": 17,
+						"h": 33
+					}
+				},
+				{
+					"filename": "white-zombie_up3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 31,
+						"w": 19,
+						"h": 33
+					},
+					"frame": {
+						"x": 40,
+						"y": 772,
+						"w": 19,
+						"h": 33
+					}
+				},
+				{
+					"filename": "zombie_down3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 31,
+						"w": 18,
+						"h": 33
+					},
+					"frame": {
+						"x": 61,
+						"y": 775,
+						"w": 18,
+						"h": 33
+					}
+				},
+				{
+					"filename": "purple-demon_up2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 32,
+						"w": 37,
+						"h": 32
+					},
+					"frame": {
+						"x": 81,
+						"y": 780,
+						"w": 37,
+						"h": 32
+					}
+				},
+				{
+					"filename": "zombie_left1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 31,
+						"w": 18,
+						"h": 33
+					},
+					"frame": {
+						"x": 1,
+						"y": 801,
+						"w": 18,
+						"h": 33
+					}
+				},
+				{
+					"filename": "zombie_right1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 31,
+						"w": 17,
+						"h": 33
+					},
+					"frame": {
+						"x": 21,
+						"y": 804,
+						"w": 17,
+						"h": 33
+					}
+				},
+				{
+					"filename": "zombie_right3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 31,
+						"w": 18,
+						"h": 33
+					},
+					"frame": {
+						"x": 40,
+						"y": 807,
+						"w": 18,
+						"h": 33
+					}
+				},
+				{
+					"filename": "zombie_up1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 31,
+						"w": 19,
+						"h": 33
+					},
+					"frame": {
+						"x": 60,
+						"y": 810,
+						"w": 19,
+						"h": 33
+					}
+				},
+				{
+					"filename": "orc-boss_up2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 25,
+						"h": 33
+					},
+					"frame": {
+						"x": 81,
+						"y": 814,
+						"w": 25,
+						"h": 33
+					}
+				},
+				{
+					"filename": "zombie_up3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 31,
+						"w": 19,
+						"h": 33
+					},
+					"frame": {
+						"x": 108,
+						"y": 814,
+						"w": 19,
+						"h": 33
+					}
+				},
+				{
+					"filename": "white-zombie_left2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 30,
+						"w": 17,
+						"h": 34
+					},
+					"frame": {
+						"x": 1,
+						"y": 836,
+						"w": 17,
+						"h": 34
+					}
+				},
+				{
+					"filename": "white-zombie_right2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 30,
+						"w": 17,
+						"h": 34
+					},
+					"frame": {
+						"x": 20,
+						"y": 839,
+						"w": 17,
+						"h": 34
+					}
+				},
+				{
+					"filename": "zombie_left2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 30,
+						"w": 17,
+						"h": 34
+					},
+					"frame": {
+						"x": 39,
+						"y": 842,
+						"w": 17,
+						"h": 34
+					}
+				},
+				{
+					"filename": "ghost_left3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 30,
+						"w": 20,
+						"h": 34
+					},
+					"frame": {
+						"x": 58,
+						"y": 845,
+						"w": 20,
+						"h": 34
+					}
+				},
+				{
+					"filename": "purple-demon_left2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 31,
+						"w": 25,
+						"h": 33
+					},
+					"frame": {
+						"x": 80,
+						"y": 849,
+						"w": 25,
+						"h": 33
+					}
+				},
+				{
+					"filename": "ghost_right1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 30,
+						"w": 20,
+						"h": 34
+					},
+					"frame": {
+						"x": 107,
+						"y": 849,
+						"w": 20,
+						"h": 34
+					}
+				},
+				{
+					"filename": "zombie_right2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 30,
+						"w": 17,
+						"h": 34
+					},
+					"frame": {
+						"x": 1,
+						"y": 872,
+						"w": 17,
+						"h": 34
+					}
+				},
+				{
+					"filename": "purple-demon_right2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 31,
+						"w": 25,
+						"h": 33
+					},
+					"frame": {
+						"x": 20,
+						"y": 878,
+						"w": 25,
+						"h": 33
+					}
+				},
+				{
+					"filename": "ghost_down3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 30,
+						"w": 22,
+						"h": 34
+					},
+					"frame": {
+						"x": 47,
+						"y": 881,
+						"w": 22,
+						"h": 34
+					}
+				},
+				{
+					"filename": "ghost_up3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 30,
+						"w": 22,
+						"h": 34
+					},
+					"frame": {
+						"x": 71,
+						"y": 884,
+						"w": 22,
+						"h": 34
+					}
+				},
+				{
+					"filename": "orc-boss_down3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 25,
+						"h": 34
+					},
+					"frame": {
+						"x": 95,
+						"y": 885,
+						"w": 25,
+						"h": 34
+					}
+				},
+				{
+					"filename": "orc-boss_left3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 2,
+						"w": 20,
+						"h": 34
+					},
+					"frame": {
+						"x": 1,
+						"y": 913,
+						"w": 20,
+						"h": 34
+					}
+				},
+				{
+					"filename": "orc-boss_right3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 20,
+						"h": 34
+					},
+					"frame": {
+						"x": 23,
+						"y": 913,
+						"w": 20,
+						"h": 34
+					}
+				},
+				{
+					"filename": "orc-miniboss_down2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 2,
+						"w": 23,
+						"h": 34
+					},
+					"frame": {
+						"x": 45,
+						"y": 917,
+						"w": 23,
+						"h": 34
+					}
+				},
+				{
+					"filename": "orc4_down1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 2,
+						"w": 23,
+						"h": 34
+					},
+					"frame": {
+						"x": 70,
+						"y": 920,
+						"w": 23,
+						"h": 34
+					}
+				},
+				{
+					"filename": "orc-boss_up3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 25,
+						"h": 34
+					},
+					"frame": {
+						"x": 95,
+						"y": 921,
+						"w": 25,
+						"h": 34
+					}
+				},
+				{
+					"filename": "orc4_down3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 2,
+						"w": 23,
+						"h": 34
+					},
+					"frame": {
+						"x": 1,
+						"y": 949,
+						"w": 23,
+						"h": 34
+					}
+				},
+				{
+					"filename": "orc4_left1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 2,
+						"w": 21,
+						"h": 34
+					},
+					"frame": {
+						"x": 26,
+						"y": 953,
+						"w": 21,
+						"h": 34
+					}
+				},
+				{
+					"filename": "orc4_left3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 2,
+						"w": 21,
+						"h": 34
+					},
+					"frame": {
+						"x": 49,
+						"y": 956,
+						"w": 21,
+						"h": 34
+					}
+				},
+				{
+					"filename": "orc4_right1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 2,
+						"w": 21,
+						"h": 34
+					},
+					"frame": {
+						"x": 72,
+						"y": 956,
+						"w": 21,
+						"h": 34
+					}
+				},
+				{
+					"filename": "orc4_right3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 2,
+						"w": 21,
+						"h": 34
+					},
+					"frame": {
+						"x": 95,
+						"y": 957,
+						"w": 21,
+						"h": 34
+					}
+				},
+				{
+					"filename": "orc4_up1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 2,
+						"w": 23,
+						"h": 34
+					},
+					"frame": {
+						"x": 1,
+						"y": 985,
+						"w": 23,
+						"h": 34
+					}
+				},
+				{
+					"filename": "white-zombie_down2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 30,
+						"w": 21,
+						"h": 34
+					},
+					"frame": {
+						"x": 26,
+						"y": 989,
+						"w": 21,
+						"h": 34
+					}
+				},
+				{
+					"filename": "orc4_up3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 2,
+						"w": 23,
+						"h": 34
+					},
+					"frame": {
+						"x": 49,
+						"y": 992,
+						"w": 23,
+						"h": 34
+					}
+				},
+				{
+					"filename": "white-zombie_up2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 30,
+						"w": 21,
+						"h": 34
+					},
+					"frame": {
+						"x": 74,
+						"y": 993,
+						"w": 21,
+						"h": 34
+					}
+				},
+				{
+					"filename": "zombie_down2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 30,
+						"w": 21,
+						"h": 34
+					},
+					"frame": {
+						"x": 97,
+						"y": 993,
+						"w": 21,
+						"h": 34
+					}
+				},
+				{
+					"filename": "zombie_up2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 30,
+						"w": 21,
+						"h": 34
+					},
+					"frame": {
+						"x": 1,
+						"y": 1021,
+						"w": 21,
+						"h": 34
+					}
+				},
+				{
+					"filename": "orc4_down2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 23,
+						"h": 35
+					},
+					"frame": {
+						"x": 24,
+						"y": 1025,
+						"w": 23,
+						"h": 35
+					}
+				},
+				{
+					"filename": "orc4_left2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 21,
+						"h": 35
+					},
+					"frame": {
+						"x": 49,
+						"y": 1028,
+						"w": 21,
+						"h": 35
+					}
+				},
+				{
+					"filename": "orc4_right2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 21,
+						"h": 35
+					},
+					"frame": {
+						"x": 72,
+						"y": 1029,
+						"w": 21,
+						"h": 35
+					}
+				},
+				{
+					"filename": "orc4_up2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 23,
+						"h": 35
+					},
+					"frame": {
+						"x": 95,
+						"y": 1029,
+						"w": 23,
+						"h": 35
+					}
+				},
+				{
+					"filename": "squid_down1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 28,
+						"w": 29,
+						"h": 36
+					},
+					"frame": {
+						"x": 1,
+						"y": 1062,
+						"w": 29,
+						"h": 36
+					}
+				},
+				{
+					"filename": "squid_left1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 28,
+						"w": 24,
+						"h": 36
+					},
+					"frame": {
+						"x": 32,
+						"y": 1065,
+						"w": 24,
+						"h": 36
+					}
+				},
+				{
+					"filename": "squid_right3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 28,
+						"w": 24,
+						"h": 36
+					},
+					"frame": {
+						"x": 58,
+						"y": 1066,
+						"w": 24,
+						"h": 36
+					}
+				},
+				{
+					"filename": "squid_up1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 28,
+						"w": 29,
+						"h": 36
+					},
+					"frame": {
+						"x": 84,
+						"y": 1066,
+						"w": 29,
+						"h": 36
+					}
+				},
+				{
+					"filename": "squid_down2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 27,
+						"w": 29,
+						"h": 37
+					},
+					"frame": {
+						"x": 1,
+						"y": 1100,
+						"w": 29,
+						"h": 37
+					}
+				},
+				{
+					"filename": "squid_left2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 27,
+						"w": 24,
+						"h": 37
+					},
+					"frame": {
+						"x": 32,
+						"y": 1103,
+						"w": 24,
+						"h": 37
+					}
+				},
+				{
+					"filename": "squid_right2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 27,
+						"w": 24,
+						"h": 37
+					},
+					"frame": {
+						"x": 58,
+						"y": 1104,
+						"w": 24,
+						"h": 37
+					}
+				},
+				{
+					"filename": "squid_up2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 27,
+						"w": 29,
+						"h": 37
+					},
+					"frame": {
+						"x": 84,
+						"y": 1104,
+						"w": 29,
+						"h": 37
+					}
+				},
+				{
+					"filename": "squid_down3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 26,
+						"w": 29,
+						"h": 38
+					},
+					"frame": {
+						"x": 1,
+						"y": 1139,
+						"w": 29,
+						"h": 38
+					}
+				},
+				{
+					"filename": "squid_left3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 26,
+						"w": 24,
+						"h": 38
+					},
+					"frame": {
+						"x": 32,
+						"y": 1142,
+						"w": 24,
+						"h": 38
+					}
+				},
+				{
+					"filename": "squid_right1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 26,
+						"w": 24,
+						"h": 38
+					},
+					"frame": {
+						"x": 58,
+						"y": 1143,
+						"w": 24,
+						"h": 38
+					}
+				},
+				{
+					"filename": "squid_up3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 26,
+						"w": 29,
+						"h": 38
+					},
+					"frame": {
+						"x": 84,
+						"y": 1143,
+						"w": 29,
+						"h": 38
+					}
+				},
+				{
+					"filename": "red-demon_down1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 21,
+						"w": 39,
+						"h": 43
+					},
+					"frame": {
+						"x": 1,
+						"y": 1182,
+						"w": 39,
+						"h": 43
+					}
+				},
+				{
+					"filename": "red-demon_down3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 21,
+						"w": 39,
+						"h": 43
+					},
+					"frame": {
+						"x": 42,
+						"y": 1183,
+						"w": 39,
+						"h": 43
+					}
+				},
+				{
+					"filename": "red-demon_left1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 21,
+						"w": 35,
+						"h": 43
+					},
+					"frame": {
+						"x": 83,
+						"y": 1183,
+						"w": 35,
+						"h": 43
+					}
+				},
+				{
+					"filename": "red-demon_left3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 21,
+						"w": 35,
+						"h": 43
+					},
+					"frame": {
+						"x": 1,
+						"y": 1227,
+						"w": 35,
+						"h": 43
+					}
+				},
+				{
+					"filename": "red-demon_right1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 21,
+						"w": 35,
+						"h": 43
+					},
+					"frame": {
+						"x": 38,
+						"y": 1228,
+						"w": 35,
+						"h": 43
+					}
+				},
+				{
+					"filename": "red-demon_right3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 21,
+						"w": 35,
+						"h": 43
+					},
+					"frame": {
+						"x": 75,
+						"y": 1228,
+						"w": 35,
+						"h": 43
+					}
+				},
+				{
+					"filename": "red-demon_up1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 21,
+						"w": 39,
+						"h": 43
+					},
+					"frame": {
+						"x": 1,
+						"y": 1273,
+						"w": 39,
+						"h": 43
+					}
+				},
+				{
+					"filename": "red-demon_up3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 21,
+						"w": 39,
+						"h": 43
+					},
+					"frame": {
+						"x": 42,
+						"y": 1273,
+						"w": 39,
+						"h": 43
+					}
+				},
+				{
+					"filename": "red-demon_down2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 20,
+						"w": 41,
+						"h": 44
+					},
+					"frame": {
+						"x": 83,
+						"y": 1273,
+						"w": 41,
+						"h": 44
+					}
+				},
+				{
+					"filename": "red-demon_left2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 20,
+						"w": 37,
+						"h": 44
+					},
+					"frame": {
+						"x": 1,
+						"y": 1318,
+						"w": 37,
+						"h": 44
+					}
+				},
+				{
+					"filename": "red-demon_right2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 20,
+						"w": 37,
+						"h": 44
+					},
+					"frame": {
+						"x": 40,
+						"y": 1318,
+						"w": 37,
+						"h": 44
+					}
+				},
+				{
+					"filename": "red-demon_up2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 20,
+						"w": 41,
+						"h": 44
+					},
+					"frame": {
+						"x": 79,
+						"y": 1319,
+						"w": 41,
+						"h": 44
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:0323d9a67992b8645755803eca93bee1:bf37a67d8545ba1d6f54e3a278465cd4:8fc4d3ec51ba7bc700054b5f64cf62b1$"
+	}
+}

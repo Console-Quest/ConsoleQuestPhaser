@@ -1,0 +1,60 @@
+{
+    "id": "2b4f8706-7246-4dc8-baf2-8d2e7d60e38d",
+    "sceneType": "PREFAB",
+    "settings": {
+        "preloadMethodName": "",
+        "preloadPackFiles": [],
+        "createMethodName": "",
+        "borderWidth": 288,
+        "borderHeight": 192
+    },
+    "displayList": [
+        {
+            "type": "Sprite",
+            "id": "3c1855d6-0a00-45a4-aad8-e899cae57892",
+            "label": "arcadesprite_1",
+            "hitArea.shape": "CIRCLE",
+            "hitArea.x": 32,
+            "hitArea.y": 32,
+            "hitArea.radius": 32,
+            "texture": {
+                "key": "spells",
+                "frame": "Fire_Ball1.png"
+            },
+            "x": 130,
+            "y": 89,
+            "ArcadeComponent.active": true,
+            "collideWorldBounds": true,
+            "pushable": false,
+            "mass": 2,
+            "body.width": 64,
+            "body.height": 64,
+            "list": [
+                {
+                    "prefabId": "898b7019-bb12-4d9a-8ae1-7d94e7215830",
+                    "id": "4c4440d2-cf63-4842-b5a3-a6c2dca2241b",
+                    "label": "spellCollisionScript"
+                }
+            ]
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 4
+    },
+    "prefabProperties": [
+        {
+            "name": "spell1",
+            "label": "Property 1",
+            "tooltip": "Property 1",
+            "defValue": "fire_cast",
+            "customDefinition": false,
+            "type": {
+                "id": "audio-key"
+            }
+        }
+    ]
+}

@@ -1,0 +1,2120 @@
+{
+	"textures": [
+		{
+			"image": "spells.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 125,
+				"h": 1067
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Fire_Ball5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 15,
+						"w": 64,
+						"h": 34
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 64,
+						"h": 34
+					}
+				},
+				{
+					"filename": "Earth_Spike3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 35,
+						"w": 57,
+						"h": 29
+					},
+					"frame": {
+						"x": 67,
+						"y": 1,
+						"w": 57,
+						"h": 29
+					}
+				},
+				{
+					"filename": "Explosion4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 55,
+						"h": 57
+					},
+					"frame": {
+						"x": 67,
+						"y": 32,
+						"w": 55,
+						"h": 57
+					}
+				},
+				{
+					"filename": "Fire_Ball2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 18,
+						"w": 64,
+						"h": 30
+					},
+					"frame": {
+						"x": 1,
+						"y": 37,
+						"w": 64,
+						"h": 30
+					}
+				},
+				{
+					"filename": "Fire_Ball4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 18,
+						"w": 64,
+						"h": 30
+					},
+					"frame": {
+						"x": 1,
+						"y": 69,
+						"w": 64,
+						"h": 30
+					}
+				},
+				{
+					"filename": "Explosion5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 55,
+						"h": 56
+					},
+					"frame": {
+						"x": 67,
+						"y": 91,
+						"w": 55,
+						"h": 56
+					}
+				},
+				{
+					"filename": "Fire_Ball3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 19,
+						"w": 64,
+						"h": 28
+					},
+					"frame": {
+						"x": 1,
+						"y": 101,
+						"w": 64,
+						"h": 28
+					}
+				},
+				{
+					"filename": "Earth_Spike5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 30,
+						"w": 61,
+						"h": 34
+					},
+					"frame": {
+						"x": 1,
+						"y": 131,
+						"w": 61,
+						"h": 34
+					}
+				},
+				{
+					"filename": "Earth_Spike4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 30,
+						"w": 60,
+						"h": 34
+					},
+					"frame": {
+						"x": 64,
+						"y": 149,
+						"w": 60,
+						"h": 34
+					}
+				},
+				{
+					"filename": "Earth_Spike7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 39,
+						"w": 61,
+						"h": 25
+					},
+					"frame": {
+						"x": 1,
+						"y": 167,
+						"w": 61,
+						"h": 25
+					}
+				},
+				{
+					"filename": "Fire_Ball1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 16,
+						"w": 60,
+						"h": 34
+					},
+					"frame": {
+						"x": 64,
+						"y": 185,
+						"w": 60,
+						"h": 34
+					}
+				},
+				{
+					"filename": "Earth_Spike6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 32,
+						"w": 60,
+						"h": 32
+					},
+					"frame": {
+						"x": 1,
+						"y": 194,
+						"w": 60,
+						"h": 32
+					}
+				},
+				{
+					"filename": "Earth_Spike2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 41,
+						"w": 54,
+						"h": 23
+					},
+					"frame": {
+						"x": 63,
+						"y": 221,
+						"w": 54,
+						"h": 23
+					}
+				},
+				{
+					"filename": "Wind10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 55,
+						"y": 17,
+						"w": 5,
+						"h": 31
+					},
+					"frame": {
+						"x": 119,
+						"y": 221,
+						"w": 5,
+						"h": 31
+					}
+				},
+				{
+					"filename": "Explosion3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 53,
+						"h": 55
+					},
+					"frame": {
+						"x": 1,
+						"y": 228,
+						"w": 53,
+						"h": 55
+					}
+				},
+				{
+					"filename": "Water10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 61,
+						"y": 14,
+						"w": 3,
+						"h": 39
+					},
+					"frame": {
+						"x": 56,
+						"y": 228,
+						"w": 3,
+						"h": 39
+					}
+				},
+				{
+					"filename": "Wind5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 23,
+						"w": 49,
+						"h": 18
+					},
+					"frame": {
+						"x": 61,
+						"y": 246,
+						"w": 49,
+						"h": 18
+					}
+				},
+				{
+					"filename": "Water9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 52,
+						"y": 8,
+						"w": 12,
+						"h": 51
+					},
+					"frame": {
+						"x": 112,
+						"y": 254,
+						"w": 12,
+						"h": 51
+					}
+				},
+				{
+					"filename": "Wind4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 23,
+						"w": 48,
+						"h": 18
+					},
+					"frame": {
+						"x": 61,
+						"y": 266,
+						"w": 48,
+						"h": 18
+					}
+				},
+				{
+					"filename": "Portal6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 56,
+						"y": 269,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "Wind3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 24,
+						"w": 46,
+						"h": 16
+					},
+					"frame": {
+						"x": 1,
+						"y": 285,
+						"w": 46,
+						"h": 16
+					}
+				},
+				{
+					"filename": "Water8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 54,
+						"y": 10,
+						"w": 10,
+						"h": 47
+					},
+					"frame": {
+						"x": 49,
+						"y": 285,
+						"w": 10,
+						"h": 47
+					}
+				},
+				{
+					"filename": "Tornado3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 8,
+						"w": 45,
+						"h": 56
+					},
+					"frame": {
+						"x": 1,
+						"y": 303,
+						"w": 45,
+						"h": 56
+					}
+				},
+				{
+					"filename": "Explosion7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 14,
+						"w": 44,
+						"h": 36
+					},
+					"frame": {
+						"x": 61,
+						"y": 286,
+						"w": 44,
+						"h": 36
+					}
+				},
+				{
+					"filename": "Wind7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 21,
+						"w": 14,
+						"h": 23
+					},
+					"frame": {
+						"x": 107,
+						"y": 307,
+						"w": 14,
+						"h": 23
+					}
+				},
+				{
+					"filename": "Rocks3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 20,
+						"w": 44,
+						"h": 27
+					},
+					"frame": {
+						"x": 61,
+						"y": 324,
+						"w": 44,
+						"h": 27
+					}
+				},
+				{
+					"filename": "Tornado8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 28,
+						"y": 12,
+						"w": 11,
+						"h": 52
+					},
+					"frame": {
+						"x": 48,
+						"y": 334,
+						"w": 11,
+						"h": 52
+					}
+				},
+				{
+					"filename": "Rocks1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 20,
+						"w": 44,
+						"h": 25
+					},
+					"frame": {
+						"x": 1,
+						"y": 361,
+						"w": 44,
+						"h": 25
+					}
+				},
+				{
+					"filename": "Rocks2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 21,
+						"w": 44,
+						"h": 25
+					},
+					"frame": {
+						"x": 1,
+						"y": 361,
+						"w": 44,
+						"h": 25
+					}
+				},
+				{
+					"filename": "Wind9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 53,
+						"y": 14,
+						"w": 11,
+						"h": 37
+					},
+					"frame": {
+						"x": 107,
+						"y": 332,
+						"w": 11,
+						"h": 37
+					}
+				},
+				{
+					"filename": "Rocks4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 21,
+						"w": 44,
+						"h": 25
+					},
+					"frame": {
+						"x": 61,
+						"y": 353,
+						"w": 44,
+						"h": 25
+					}
+				},
+				{
+					"filename": "Wind8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 54,
+						"y": 14,
+						"w": 10,
+						"h": 37
+					},
+					"frame": {
+						"x": 107,
+						"y": 371,
+						"w": 10,
+						"h": 37
+					}
+				},
+				{
+					"filename": "Rocks5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 21,
+						"w": 44,
+						"h": 23
+					},
+					"frame": {
+						"x": 61,
+						"y": 380,
+						"w": 44,
+						"h": 23
+					}
+				},
+				{
+					"filename": "Earth_Spike1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 54,
+						"w": 44,
+						"h": 10
+					},
+					"frame": {
+						"x": 1,
+						"y": 388,
+						"w": 44,
+						"h": 10
+					}
+				},
+				{
+					"filename": "Tornado9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 15,
+						"w": 9,
+						"h": 49
+					},
+					"frame": {
+						"x": 47,
+						"y": 388,
+						"w": 9,
+						"h": 49
+					}
+				},
+				{
+					"filename": "Tornado1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 9,
+						"w": 43,
+						"h": 55
+					},
+					"frame": {
+						"x": 1,
+						"y": 400,
+						"w": 43,
+						"h": 55
+					}
+				},
+				{
+					"filename": "Tornado2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 9,
+						"w": 43,
+						"h": 55
+					},
+					"frame": {
+						"x": 58,
+						"y": 405,
+						"w": 43,
+						"h": 55
+					}
+				},
+				{
+					"filename": "Molten_Spear5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 0,
+						"w": 21,
+						"h": 64
+					},
+					"frame": {
+						"x": 103,
+						"y": 410,
+						"w": 21,
+						"h": 64
+					}
+				},
+				{
+					"filename": "Earth_Spike9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 28,
+						"y": 56,
+						"w": 9,
+						"h": 8
+					},
+					"frame": {
+						"x": 46,
+						"y": 439,
+						"w": 9,
+						"h": 8
+					}
+				},
+				{
+					"filename": "Tornado4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 9,
+						"w": 43,
+						"h": 55
+					},
+					"frame": {
+						"x": 1,
+						"y": 457,
+						"w": 43,
+						"h": 55
+					}
+				},
+				{
+					"filename": "Tornado5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 13,
+						"w": 43,
+						"h": 51
+					},
+					"frame": {
+						"x": 46,
+						"y": 462,
+						"w": 43,
+						"h": 51
+					}
+				},
+				{
+					"filename": "Portal2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 10,
+						"w": 43,
+						"h": 43
+					},
+					"frame": {
+						"x": 1,
+						"y": 514,
+						"w": 43,
+						"h": 43
+					}
+				},
+				{
+					"filename": "Water_Geyser6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 0,
+						"w": 33,
+						"h": 64
+					},
+					"frame": {
+						"x": 91,
+						"y": 476,
+						"w": 33,
+						"h": 64
+					}
+				},
+				{
+					"filename": "Portal3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 10,
+						"w": 43,
+						"h": 43
+					},
+					"frame": {
+						"x": 46,
+						"y": 515,
+						"w": 43,
+						"h": 43
+					}
+				},
+				{
+					"filename": "Wind2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 23,
+						"w": 43,
+						"h": 18
+					},
+					"frame": {
+						"x": 1,
+						"y": 559,
+						"w": 43,
+						"h": 18
+					}
+				},
+				{
+					"filename": "Water_Geyser4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 52,
+						"w": 33,
+						"h": 12
+					},
+					"frame": {
+						"x": 91,
+						"y": 542,
+						"w": 33,
+						"h": 12
+					}
+				},
+				{
+					"filename": "Water_Geyser7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 0,
+						"w": 32,
+						"h": 64
+					},
+					"frame": {
+						"x": 91,
+						"y": 556,
+						"w": 32,
+						"h": 64
+					}
+				},
+				{
+					"filename": "Portal1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 11,
+						"w": 42,
+						"h": 42
+					},
+					"frame": {
+						"x": 46,
+						"y": 560,
+						"w": 42,
+						"h": 42
+					}
+				},
+				{
+					"filename": "Portal4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 11,
+						"w": 42,
+						"h": 42
+					},
+					"frame": {
+						"x": 1,
+						"y": 579,
+						"w": 42,
+						"h": 42
+					}
+				},
+				{
+					"filename": "Portal9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 11,
+						"w": 42,
+						"h": 42
+					},
+					"frame": {
+						"x": 45,
+						"y": 604,
+						"w": 42,
+						"h": 42
+					}
+				},
+				{
+					"filename": "Portal10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 11,
+						"w": 42,
+						"h": 42
+					},
+					"frame": {
+						"x": 1,
+						"y": 623,
+						"w": 42,
+						"h": 42
+					}
+				},
+				{
+					"filename": "Water2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 20,
+						"w": 35,
+						"h": 24
+					},
+					"frame": {
+						"x": 89,
+						"y": 622,
+						"w": 35,
+						"h": 24
+					}
+				},
+				{
+					"filename": "Portal5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 11,
+						"w": 41,
+						"h": 41
+					},
+					"frame": {
+						"x": 45,
+						"y": 648,
+						"w": 41,
+						"h": 41
+					}
+				},
+				{
+					"filename": "Explosion6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 15,
+						"w": 41,
+						"h": 32
+					},
+					"frame": {
+						"x": 1,
+						"y": 667,
+						"w": 41,
+						"h": 32
+					}
+				},
+				{
+					"filename": "Water_Geyser8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 0,
+						"w": 32,
+						"h": 64
+					},
+					"frame": {
+						"x": 88,
+						"y": 648,
+						"w": 32,
+						"h": 64
+					}
+				},
+				{
+					"filename": "Fire_Ball6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 16,
+						"w": 40,
+						"h": 34
+					},
+					"frame": {
+						"x": 44,
+						"y": 691,
+						"w": 40,
+						"h": 34
+					}
+				},
+				{
+					"filename": "Water3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 21,
+						"w": 38,
+						"h": 22
+					},
+					"frame": {
+						"x": 86,
+						"y": 714,
+						"w": 38,
+						"h": 22
+					}
+				},
+				{
+					"filename": "Wind1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 23,
+						"w": 40,
+						"h": 18
+					},
+					"frame": {
+						"x": 1,
+						"y": 701,
+						"w": 40,
+						"h": 18
+					}
+				},
+				{
+					"filename": "Tornado6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 13,
+						"w": 37,
+						"h": 51
+					},
+					"frame": {
+						"x": 1,
+						"y": 721,
+						"w": 37,
+						"h": 51
+					}
+				},
+				{
+					"filename": "Portal7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 14,
+						"w": 37,
+						"h": 39
+					},
+					"frame": {
+						"x": 40,
+						"y": 727,
+						"w": 37,
+						"h": 39
+					}
+				},
+				{
+					"filename": "Water_Geyser9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 19,
+						"w": 32,
+						"h": 45
+					},
+					"frame": {
+						"x": 79,
+						"y": 738,
+						"w": 32,
+						"h": 45
+					}
+				},
+				{
+					"filename": "Water_Geyser10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 37,
+						"w": 32,
+						"h": 27
+					},
+					"frame": {
+						"x": 40,
+						"y": 768,
+						"w": 32,
+						"h": 27
+					}
+				},
+				{
+					"filename": "Water1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 21,
+						"w": 32,
+						"h": 22
+					},
+					"frame": {
+						"x": 1,
+						"y": 774,
+						"w": 32,
+						"h": 22
+					}
+				},
+				{
+					"filename": "Water_Geyser11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 47,
+						"w": 32,
+						"h": 17
+					},
+					"frame": {
+						"x": 74,
+						"y": 785,
+						"w": 32,
+						"h": 17
+					}
+				},
+				{
+					"filename": "Water_Geyser3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 55,
+						"w": 32,
+						"h": 9
+					},
+					"frame": {
+						"x": 35,
+						"y": 797,
+						"w": 32,
+						"h": 9
+					}
+				},
+				{
+					"filename": "Fire_Ball9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 21,
+						"w": 31,
+						"h": 29
+					},
+					"frame": {
+						"x": 1,
+						"y": 798,
+						"w": 31,
+						"h": 29
+					}
+				},
+				{
+					"filename": "Fire_Ball8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 22,
+						"w": 31,
+						"h": 27
+					},
+					"frame": {
+						"x": 69,
+						"y": 804,
+						"w": 31,
+						"h": 27
+					}
+				},
+				{
+					"filename": "Water5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 21,
+						"w": 31,
+						"h": 22
+					},
+					"frame": {
+						"x": 34,
+						"y": 808,
+						"w": 31,
+						"h": 22
+					}
+				},
+				{
+					"filename": "Explosion2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 17,
+						"w": 30,
+						"h": 30
+					},
+					"frame": {
+						"x": 1,
+						"y": 829,
+						"w": 30,
+						"h": 30
+					}
+				},
+				{
+					"filename": "Molten_Spear4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 0,
+						"w": 19,
+						"h": 64
+					},
+					"frame": {
+						"x": 102,
+						"y": 804,
+						"w": 19,
+						"h": 64
+					}
+				},
+				{
+					"filename": "Fire_Ball7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 19,
+						"w": 30,
+						"h": 29
+					},
+					"frame": {
+						"x": 33,
+						"y": 832,
+						"w": 30,
+						"h": 29
+					}
+				},
+				{
+					"filename": "Water4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 21,
+						"w": 30,
+						"h": 22
+					},
+					"frame": {
+						"x": 1,
+						"y": 861,
+						"w": 30,
+						"h": 22
+					}
+				},
+				{
+					"filename": "Earth_Spike8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 51,
+						"w": 30,
+						"h": 13
+					},
+					"frame": {
+						"x": 65,
+						"y": 833,
+						"w": 30,
+						"h": 13
+					}
+				},
+				{
+					"filename": "Water_Geyser5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 20,
+						"w": 29,
+						"h": 44
+					},
+					"frame": {
+						"x": 65,
+						"y": 848,
+						"w": 29,
+						"h": 44
+					}
+				},
+				{
+					"filename": "Rocks10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 5,
+						"w": 28,
+						"h": 59
+					},
+					"frame": {
+						"x": 96,
+						"y": 870,
+						"w": 28,
+						"h": 59
+					}
+				},
+				{
+					"filename": "Rocks6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 21,
+						"w": 29,
+						"h": 24
+					},
+					"frame": {
+						"x": 33,
+						"y": 863,
+						"w": 29,
+						"h": 24
+					}
+				},
+				{
+					"filename": "Explosion1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 18,
+						"w": 28,
+						"h": 28
+					},
+					"frame": {
+						"x": 1,
+						"y": 885,
+						"w": 28,
+						"h": 28
+					}
+				},
+				{
+					"filename": "Portal8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 18,
+						"w": 28,
+						"h": 28
+					},
+					"frame": {
+						"x": 31,
+						"y": 889,
+						"w": 28,
+						"h": 28
+					}
+				},
+				{
+					"filename": "Water_Geyser2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 59,
+						"w": 28,
+						"h": 5
+					},
+					"frame": {
+						"x": 1,
+						"y": 915,
+						"w": 28,
+						"h": 5
+					}
+				},
+				{
+					"filename": "Water_Geyser12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 59,
+						"w": 28,
+						"h": 5
+					},
+					"frame": {
+						"x": 1,
+						"y": 915,
+						"w": 28,
+						"h": 5
+					}
+				},
+				{
+					"filename": "Fire_Ball10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 21,
+						"w": 27,
+						"h": 29
+					},
+					"frame": {
+						"x": 61,
+						"y": 894,
+						"w": 27,
+						"h": 29
+					}
+				},
+				{
+					"filename": "Water6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 19,
+						"w": 26,
+						"h": 27
+					},
+					"frame": {
+						"x": 31,
+						"y": 919,
+						"w": 26,
+						"h": 27
+					}
+				},
+				{
+					"filename": "Rocks9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 40,
+						"y": 6,
+						"w": 24,
+						"h": 53
+					},
+					"frame": {
+						"x": 1,
+						"y": 922,
+						"w": 24,
+						"h": 53
+					}
+				},
+				{
+					"filename": "Water_Geyser1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 61,
+						"w": 24,
+						"h": 3
+					},
+					"frame": {
+						"x": 59,
+						"y": 925,
+						"w": 24,
+						"h": 3
+					}
+				},
+				{
+					"filename": "Water_Geyser13.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 61,
+						"w": 24,
+						"h": 3
+					},
+					"frame": {
+						"x": 59,
+						"y": 925,
+						"w": 24,
+						"h": 3
+					}
+				},
+				{
+					"filename": "Tornado7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 12,
+						"w": 23,
+						"h": 52
+					},
+					"frame": {
+						"x": 59,
+						"y": 930,
+						"w": 23,
+						"h": 52
+					}
+				},
+				{
+					"filename": "Rocks8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 10,
+						"w": 23,
+						"h": 41
+					},
+					"frame": {
+						"x": 27,
+						"y": 948,
+						"w": 23,
+						"h": 41
+					}
+				},
+				{
+					"filename": "Wind6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 22,
+						"w": 23,
+						"h": 20
+					},
+					"frame": {
+						"x": 1,
+						"y": 977,
+						"w": 23,
+						"h": 20
+					}
+				},
+				{
+					"filename": "Molten_Spear6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 0,
+						"w": 19,
+						"h": 64
+					},
+					"frame": {
+						"x": 1,
+						"y": 999,
+						"w": 19,
+						"h": 64
+					}
+				},
+				{
+					"filename": "Molten_Spear7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 0,
+						"w": 19,
+						"h": 64
+					},
+					"frame": {
+						"x": 22,
+						"y": 999,
+						"w": 19,
+						"h": 64
+					}
+				},
+				{
+					"filename": "Molten_Spear8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 8,
+						"w": 19,
+						"h": 56
+					},
+					"frame": {
+						"x": 43,
+						"y": 991,
+						"w": 19,
+						"h": 56
+					}
+				},
+				{
+					"filename": "Molten_Spear1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 0,
+						"w": 19,
+						"h": 14
+					},
+					"frame": {
+						"x": 43,
+						"y": 1049,
+						"w": 19,
+						"h": 14
+					}
+				},
+				{
+					"filename": "Molten_Spear11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 11,
+						"w": 19,
+						"h": 51
+					},
+					"frame": {
+						"x": 84,
+						"y": 931,
+						"w": 19,
+						"h": 51
+					}
+				},
+				{
+					"filename": "Molten_Spear9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 14,
+						"w": 19,
+						"h": 50
+					},
+					"frame": {
+						"x": 105,
+						"y": 931,
+						"w": 19,
+						"h": 50
+					}
+				},
+				{
+					"filename": "Molten_Spear3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 0,
+						"w": 19,
+						"h": 45
+					},
+					"frame": {
+						"x": 105,
+						"y": 983,
+						"w": 19,
+						"h": 45
+					}
+				},
+				{
+					"filename": "Water7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 15,
+						"w": 18,
+						"h": 35
+					},
+					"frame": {
+						"x": 64,
+						"y": 1030,
+						"w": 18,
+						"h": 35
+					}
+				},
+				{
+					"filename": "Molten_Spear10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 22,
+						"w": 19,
+						"h": 42
+					},
+					"frame": {
+						"x": 84,
+						"y": 984,
+						"w": 19,
+						"h": 42
+					}
+				},
+				{
+					"filename": "Molten_Spear12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 0,
+						"w": 19,
+						"h": 38
+					},
+					"frame": {
+						"x": 84,
+						"y": 1028,
+						"w": 19,
+						"h": 38
+					}
+				},
+				{
+					"filename": "Molten_Spear2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 0,
+						"w": 19,
+						"h": 32
+					},
+					"frame": {
+						"x": 105,
+						"y": 1030,
+						"w": 19,
+						"h": 32
+					}
+				},
+				{
+					"filename": "Rocks7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 17,
+						"w": 18,
+						"h": 32
+					},
+					"frame": {
+						"x": 64,
+						"y": 984,
+						"w": 18,
+						"h": 32
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:d4b28eea51141ad492782c649ebc5f98:a2122c5f5e1660e699f17cc60eda3552:1c539bc716abfaedb5358c191456e7c7$"
+	}
+}
