@@ -4,13 +4,13 @@
 
 Console Quest 2 is a top-down 2D game built with Phaser 3.
 
-![Game screenshot](./path-to-your-screenshot.png)
+![Game screenshot](https://github.com/Console-Quest/ConsoleQuestPhaser/blob/main/consolequest2IDE.PNG)
 
 ## Game Description
 
-In Console Quest 2, you control a character who...
+In Console Quest 2, you control a character who collects gems, dodges monsters and casts spells
 
-(Talk about the gameplay, story, and mechanics of your game here.)
+
 
 ## File Structure
 
@@ -30,7 +30,7 @@ src/
 | |- Monster.js
 |
 |- assets/
-| |- ... (Your game's assets: images, audio files, etc.)
+| |- ... (images, audio files, etc.)
 |
 |- main.js
 |- index.html
@@ -40,7 +40,7 @@ README.md
 
 ## UML
 
-(Insert your UML diagram here.)
+[UML](https://www.figma.com/file/erExBRhGTH6TYUfgiWtVTY/ConsoleQuest?type=whiteboard&node-id=0%3A1&t=KhZgyieJunzWaB7c-1)
 
 ## How to Run the Game
 
@@ -54,11 +54,11 @@ README.md
 
 ### Player
 
-The player character is controlled using the W, A, S, and D keys. The player can...
+The player character is controlled using the W, A, S, and D keys
 
 ### Monsters
 
-Monsters are AI-controlled entities that...
+Monsters are AI-controlled entities that chase the player based on their speed.
 
 ### Scenes
 
@@ -78,8 +78,7 @@ The game is divided into several scenes:
 
 ****
 
-Description of game
-
+A game made using the Phaser 3 Framework. 
 ****
 
 ## Installation
@@ -95,20 +94,6 @@ Description of game
 3. Enter your name in the gamePlayers console.
 4. The game loop will start on the server, and you will be prompted to choose your attack type and target enemy.
 5. Keep playing until you defeat all enemies or your health reaches 0.
-
-****
-
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-908a85?logo=gitpod)](https://gitpod.io/#https://github.com/PhaserEditor2D/starter-example-sunny-land)
-
-This is a port to Phaser 3 of the [Sunny Land demo made by Luis Zuno](https://ansimuz.itch.io/sunny-land-pixel-game-art).
-
-This is a good example of how to use the Tilemap support in the Scene Editor, the User Components and the Animations Editor.
-
-## Configuration
-
-* It includes the latest Phaser v3 runtime (in the `lib/` folder).
-* It is coded in JavaScript.
-* It includes a VS Code project configuration (`jsconfig.json` file) and the type definitions (in the `types/` folder).
 
 ## Run the editor
 
